@@ -13,7 +13,7 @@ class NoteListView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Not Defteri Yeni',
+          'Not Defteri Yenileri Aldım gönderdim',
           style: TextStyle(color: Colors.black, fontSize: 18),
         ),
         centerTitle: true,
